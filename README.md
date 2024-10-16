@@ -1,0 +1,1 @@
+This Weather Forecasting Web App provides real-time weather information for any city, as well as the user's current location, using data from weather APIs. The app is built using HTML, CSS, JavaScript, and weather APIs, showcasing skills in web development and JavaScript through interactive and responsive design.
